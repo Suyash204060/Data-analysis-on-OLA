@@ -59,8 +59,10 @@ DASHBOARD
       The median ride distance was around 8 km, with 75% of rides being shorter than 27 km
 
 # 6) Final Conclusion:
-    The analysis highlights the efficiency and revenue contributions of different vehicle types, payment methods, and customer preferences. While most rides are successful, improving the availability of drivers 
-    and reducing cancellations can significantly enhance user experience. Focusing on the highest-rated vehicle types (e.g., Prime Plus) and incentivizing digital payment methods like UPI could increase both c 
+    The analysis highlights the efficiency and revenue contributions of different vehicle types, payment methods, and customer preferences. While most rides are successful, 
+    improving the availability of drivers 
+    and reducing cancellations can significantly enhance user experience. Focusing on the highest-rated vehicle types (e.g., Prime Plus) and
+    incentivizing digital payment methods like UPI could increase both c 
     Customer satisfaction and revenue. Further studies could explore segmentation and trends in cancellations to refine service strategies. ​
 
 
