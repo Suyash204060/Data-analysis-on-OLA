@@ -44,7 +44,9 @@ DASHBOARD
        
        Average Customer Ratings by Vehicle Type:
        Prime Plus vehicles received the highest customer ratings (4.00), while eBike had the lowest (3.99).
-       Ride Cancellation Reasons:
+
+       
+    # Ride Cancellation Reasons:
 
       Customers cited reasons like "Driver is not moving towards pickup location" (3,084 cases) and "Driver asked to cancel" (2,584 cases).
       Drivers most frequently canceled due to "Personal & Car related issues" (6,355 cases).
